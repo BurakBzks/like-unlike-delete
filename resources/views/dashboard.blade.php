@@ -1,0 +1,11 @@
+@extends('layouts.admin')
+@section('title')
+    dashboard
+@endsection
+@section('css')
+@endsection
+@section('content')
+fsafgasjfgnjkıasfa
+@endsection
+@section('js')
+@endsection
